@@ -1,4 +1,3 @@
-PImage pic;
 int spacing=10;
 //maximus -460500
 //Double the first range
